@@ -1,7 +1,5 @@
 using UnityEngine;
 using UnityEditor;
-using System.Collections.Generic;
-
 public class ChangeAllTextureMaxSize
 {
     [MenuItem("Tools/Change All Texture MaxSize")]
